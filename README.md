@@ -1,4 +1,11 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new [**React Native**](https://reactnative.dev) project, for studt skia 
+in this project is Arc Slider using skia and reanimated
+
+
+https://github.com/abhi3691/confetti_skia/assets/54738565/7ae56300-b646-4b7b-be5e-c03e7e4f72f8
+
+
+
 
 # Getting Started
 
