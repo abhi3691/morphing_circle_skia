@@ -1,8 +1,11 @@
 This is a new [**React Native**](https://reactnative.dev) project, for studt skia 
-in this project is Arc Slider using skia and reanimated
+in this project is morphing Circle  Animation using skia and reanimated
 
 
-https://github.com/abhi3691/confetti_skia/assets/54738565/7ae56300-b646-4b7b-be5e-c03e7e4f72f8
+https://github.com/abhi3691/morphing_circle_skia/assets/54738565/eb7f761a-ac36-4604-989b-f2d0e694e690
+
+
+
 
 
 
